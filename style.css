@@ -1,0 +1,17 @@
+html,
+body{
+    height: 100%;
+    font-size: 1rem;
+}
+
+.gradient {
+    background: rgb(249,238,223); 
+    background: linear-gradient(90deg, rgba(249,238,223,1) 0%, rgba(233,200,149,1) 35%, rgba(158,123,72,1) 100%)
+}
+
+.page-header{
+    margin-top: 4rem;
+    font-size: 2rem;
+    color:black;
+    font-family: 'Cormorant Garamond', serif;
+}
