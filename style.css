@@ -48,3 +48,13 @@ body{
 .gallery img {
     border-radius: 5%;
 }
+.footer {
+    font-size: 1rem;
+    margin:0;
+    padding: 1rem;
+
+}
+a {
+    color:black;
+    text-decoration: none;
+}
